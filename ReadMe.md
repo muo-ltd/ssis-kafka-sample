@@ -60,3 +60,7 @@ You can then simple use standard RdKafka style code to Publish or Subscribe to m
                 }
 
 ```
+
+## Kafka 
+
+You can use docker to run an instance of Kafka locally. For example [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker)
